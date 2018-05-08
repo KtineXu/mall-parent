@@ -1,0 +1,5 @@
+com\chemguan\utils\HttpUtil.class
+com\ktine\service\weixinpay\logic\WeixinAppPayLogic.class
+com\ktine\controller\WeixinAppPayController.class
+com\chemguan\utils\FsTrustManager.class
+com\ktine\controller\AliPayController.class
